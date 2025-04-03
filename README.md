@@ -1,16 +1,26 @@
-# pocket_paint
+# 🎨 Pocket Paint Flutter
 
-A new Flutter project.
+A colorful, interactive Flutter drawing app built as part of my **Google Summer of Code 2025** proposal for the Catrobat organization.
 
-## Getting Started
+This mini-project demonstrates the feasibility of porting Paintroid's core features to a modern Flutter-based Pocket Paint app — with real-time drawing, brush customization, and a vibrant UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🖌️ Freehand drawing with smooth stroke rendering  
+- 🌈 Color picker with live preview  
+- 🎚️ Adjustable brush size  
+- ↩️ Undo last stroke  
+- 🧽 Clear canvas to start fresh  
+- ⚡ Instant updates with responsive UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/prithvisaran3/pocket_paint.git
+cd pocket_paint
+flutter pub get
+flutter run
